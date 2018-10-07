@@ -118,7 +118,7 @@ INTRO SECTION
 .intro{ padding: 0 20px; margin-top: 100px; text-align: center; background: #b9b9b9; }
 
 .intro .profile-img{ height: 150px; width: 200px; border-radius: 100px; margin: 0 auto; 
-	overflow: hidden; position: relative; top: -100px; margin-bottom: -70px;  }
+	overflow: hidden; position: relative; top: -100px; margin-bottom: -70px; align:center; }
 
 .intro .information > li{ display: block; margin: 5px 0; }
 
